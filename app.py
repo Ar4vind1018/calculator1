@@ -1,2 +1,2 @@
-print("hello pthon")
-print("hello ")
+print("hello github")
+print("hello good ")
